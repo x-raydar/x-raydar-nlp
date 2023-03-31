@@ -41,4 +41,5 @@ with open(filename) as file:
 
 ## Authors
 - [@wmgdatascience](https://github.com/wmgdatascience)
+- [@yziw](https://github.com/yziw)
 - [@granmirupa](https://www.github.com/granmirupa)
